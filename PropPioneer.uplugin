@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "PropPioneer",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "SpaceGameDev",
+	"CreatedByURL": "https://spacegamedev.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PropPioneer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=455399"
+}
