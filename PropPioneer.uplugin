@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.1.0",
+	"VersionName": "2.2.0",
 	"FriendlyName": "PropPioneer",
 	"Description": "",
 	"Category": "Modding",
@@ -31,15 +31,20 @@
 			"Name": "CharacterReplacer",
 			"Enabled": true,
 			"Optional": true,
-			"SemVersion": "^1.4.2"
+			"SemVersion": "^1.4.4"
 		},
 		{
 			"Name": "CoffeeCupAddons",
 			"Enabled": true,
 			"Optional": true,
 			"SemVersion": "^1.0.0"
+		},
+		{
+			"Name": "SpaceGameDevModLib",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
 		}
 	],
-	"SemVersion": "2.1.0",
+	"SemVersion": "2.2.0",
 	"GameVersion": ">=491125"
 }
