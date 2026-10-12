@@ -1,7 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.2.3",
+	"VersionName": "2.2.4",
+	"SemVersion": "2.2.4",
 	"FriendlyName": "PropPioneer",
 	"Description": "",
 	"Category": "Modding",
@@ -45,6 +46,5 @@
 			"SemVersion": "^1.0.1"
 		}
 	],
-	"SemVersion": "2.2.3",
 	"GameVersion": ">=502094"
 }
