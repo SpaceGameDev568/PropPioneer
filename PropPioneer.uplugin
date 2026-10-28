@@ -46,5 +46,12 @@
 			"SemVersion": "^1.0.1"
 		}
 	],
-	"GameVersion": ">=502094"
+	"GameVersion": ">=502094",
+	"LocalizationTargets": [
+		{
+			"Name": "PropPioneer",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	]
 }
